@@ -1,0 +1,2 @@
+# rubyEx
+exersizes in ruby
